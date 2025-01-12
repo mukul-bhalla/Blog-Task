@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/mukul-bhalla/Blog-Task#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^7.2.3"
   }
 }
